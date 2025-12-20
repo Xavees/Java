@@ -17,6 +17,7 @@ public class leituraCompleta {
         System.out.println("Filhos : " + filhos);
         System.out.println("altura :" + altura);
         System.out.println("animal : " + animal);
+        scan.close();
     }
     
 }
