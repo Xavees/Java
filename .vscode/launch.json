@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "switchcomString",
+            "request": "launch",
+            "mainClass": "condicionaisExercicios.switchcomString",
+            "projectName": "Iniciando_java_460ffd7c"
+        },
+        {
+            "type": "java",
+            "name": "folhaPag",
+            "request": "launch",
+            "mainClass": "condicionaisExercicios.folhaPag",
+            "projectName": "Iniciando_java_460ffd7c"
+        },
+        {
+            "type": "java",
+            "name": "orgTabajara",
+            "request": "launch",
+            "mainClass": "condicionaisExercicios.orgTabajara",
+            "projectName": "Iniciando_java_460ffd7c"
+        },
+        {
+            "type": "java",
+            "name": "verifHorario",
+            "request": "launch",
+            "mainClass": "condicionaisExercicios.verifHorario",
+            "projectName": "Iniciando_java_460ffd7c"
+        },
+        {
+            "type": "java",
+            "name": "ordemDecrescente",
+            "request": "launch",
+            "mainClass": "condicionaisExercicios.ordemDecrescente",
+            "projectName": "Iniciando_java_460ffd7c"
+        },
+        {
+            "type": "java",
             "name": "consuladorPreco",
             "request": "launch",
             "mainClass": "condicionaisExercicios.consuladorPreco",

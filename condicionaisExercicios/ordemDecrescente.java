@@ -16,7 +16,7 @@ public class ordemDecrescente {
         if (valor1 > valor2 && valor1 > valor3) {
             if (valor2 > valor3) {
 
-                System.out.println("A ordem decrescente dos valores é " + valor1 + valor2 + valor3);
+                System.out.println("A ordem decrescente dos valores é : " + valor1  +" "+ valor2 + " "+valor3);
 
 
             }else {
@@ -29,9 +29,20 @@ public class ordemDecrescente {
         }else if (valor2 > valor3 && valor2 > valor1) {
 
         if (valor3 > valor1) {
+            System.out.println("A ordem decrescente dos valores é : " + valor2 + "" + valor3 + " " + valor1);
             
+        }else {
+            System.out.println("A ordem decrescente dos valores é : " + valor2 + " " + valor1 + " " + valor3);
+
         }
 
+        }else {
+            if (valor1 > valor2) {
+                System.out.println("A ordem decrescente dos valores é : " + valor3 + " "+ valor1  +""+ valor2);
+
+            }else {
+              System.out.println("A ordeem decrescente dos valores é : " + valor3 + " " + valor2 + " " + valor1);
+            }
         }
 
 
