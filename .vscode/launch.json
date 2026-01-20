@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "forVariaveis",
+            "request": "launch",
+            "mainClass": "Aula17.forVariaveis",
+            "projectName": "Iniciando_java_460ffd7c"
+        },
+        {
+            "type": "java",
+            "name": "forEpeticao",
+            "request": "launch",
+            "mainClass": "Aula17.forEpeticao",
+            "projectName": "Iniciando_java_460ffd7c"
+        },
+        {
+            "type": "java",
+            "name": "dowhiletest",
+            "request": "launch",
+            "mainClass": "Aula16.dowhiletest",
+            "projectName": "Iniciando_java_460ffd7c"
+        },
+        {
+            "type": "java",
+            "name": "whiletest",
+            "request": "launch",
+            "mainClass": "Aula16.whiletest",
+            "projectName": "Iniciando_java_460ffd7c"
+        },
+        {
+            "type": "java",
+            "name": "tentativasWhile",
+            "request": "launch",
+            "mainClass": "Aula16.tentativasWhile",
+            "projectName": "Iniciando_java_460ffd7c"
+        },
+        {
+            "type": "java",
+            "name": "tentativasdoWhile",
+            "request": "launch",
+            "mainClass": "Aula16.tentativasdoWhile",
+            "projectName": "Iniciando_java_460ffd7c"
+        },
+        {
+            "type": "java",
+            "name": "dowhileRepeticao",
+            "request": "launch",
+            "mainClass": "Aula16.dowhileRepeticao",
+            "projectName": "Iniciando_java_460ffd7c"
+        },
+        {
+            "type": "java",
+            "name": "whileRepeticao",
+            "request": "launch",
+            "mainClass": "Aula16.whileRepeticao",
+            "projectName": "Iniciando_java_460ffd7c"
+        },
+        {
+            "type": "java",
             "name": "switchcomString",
             "request": "launch",
             "mainClass": "condicionaisExercicios.switchcomString",
