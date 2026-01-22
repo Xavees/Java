@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "validadorPessoa",
+            "request": "launch",
+            "mainClass": "repeticaoExercicios.validadorPessoa",
+            "projectName": "Iniciando_java_460ffd7c"
+        },
+        {
+            "type": "java",
+            "name": "nomeeSenha",
+            "request": "launch",
+            "mainClass": "repeticaoExercicios.nomeeSenha",
+            "projectName": "Iniciando_java_460ffd7c"
+        },
+        {
+            "type": "java",
+            "name": "notaInvalida",
+            "request": "launch",
+            "mainClass": "repeticaoExercicios.notaInvalida",
+            "projectName": "Iniciando_java_460ffd7c"
+        },
+        {
+            "type": "java",
             "name": "forVariaveis",
             "request": "launch",
             "mainClass": "Aula17.forVariaveis",
