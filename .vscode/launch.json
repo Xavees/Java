@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "exerc6",
+            "request": "launch",
+            "mainClass": "ArraysExercicios.exerc6",
+            "projectName": "Iniciando_java_460ffd7c"
+        },
+        {
+            "type": "java",
+            "name": "exerc5",
+            "request": "launch",
+            "mainClass": "ArraysExercicios.exerc5",
+            "projectName": "Iniciando_java_460ffd7c"
+        },
+        {
+            "type": "java",
+            "name": "exerc4",
+            "request": "launch",
+            "mainClass": "ArraysExercicios.exerc4",
+            "projectName": "Iniciando_java_460ffd7c"
+        },
+        {
+            "type": "java",
+            "name": "exerc3",
+            "request": "launch",
+            "mainClass": "ArraysExercicios.exerc3",
+            "projectName": "Iniciando_java_460ffd7c"
+        },
+        {
+            "type": "java",
+            "name": "exerc2",
+            "request": "launch",
+            "mainClass": "ArraysExercicios.exerc2",
+            "projectName": "Iniciando_java_460ffd7c"
+        },
+        {
+            "type": "java",
+            "name": "exerc1",
+            "request": "launch",
+            "mainClass": "ArraysExercicios.exerc1",
+            "projectName": "Iniciando_java_460ffd7c"
+        },
+        {
+            "type": "java",
+            "name": "Arrays",
+            "request": "launch",
+            "mainClass": "Aula19.Arrays",
+            "projectName": "Iniciando_java_460ffd7c"
+        },
+        {
+            "type": "java",
+            "name": "BreakContinueExemplo",
+            "request": "launch",
+            "mainClass": "Aula18.BreakContinueExemplo",
+            "projectName": "Iniciando_java_460ffd7c"
+        },
+        {
+            "type": "java",
+            "name": "breakAula",
+            "request": "launch",
+            "mainClass": "Aula18.breakAula",
+            "projectName": "Iniciando_java_460ffd7c"
+        },
+        {
+            "type": "java",
             "name": "validadorPessoa",
             "request": "launch",
             "mainClass": "repeticaoExercicios.validadorPessoa",
