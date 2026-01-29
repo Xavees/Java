@@ -1,8 +1,10 @@
 # ☕ Java Básico – Fundamentos da Linguagem
 
-Este repositório foi criado com o objetivo de **praticar e consolidar os conceitos básicos da linguagem Java**, servindo como material de estudo para iniciantes e estudantes de programação.
+Este repositório foi criado com o objetivo de **praticar e consolidar os conceitos básicos da linguagem Java**, servindo como material de estudo para mim.
 
-Aqui você encontrará exemplos simples, organizados e comentados, abordando desde a lógica básica até os primeiros conceitos de **Programação Orientada a Objetos (POO)**.
+Aqui você encontrará exemplos simples; abordando desde a lógica básica até os primeiros conceitos de **Programação Orientada a Objetos (POO)**.
+
+🔗 Repositório: https://github.com/Xavees/Java.git
 
 ---
 
@@ -63,4 +65,4 @@ Repetição de blocos de código de forma controlada.
 1. Instale o **JDK**
 2. Clone o repositório:
    ```bash
-[https://github.com/Xavees/Java.git]
+   git clone https://github.com/Xavees/Java.git
